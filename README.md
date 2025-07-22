@@ -28,6 +28,21 @@ O tutorIA busca transformar o ensino e a aprendizagem da Língua Portuguesa por 
 ---
 
 
+Aviso Legal — Direitos Reservados
+
+Este repositório contém o projeto "tutorIA", de autoria de Amanda Roos da Costa, protegido por direitos autorais e legislação de propriedade intelectual.
+
+O conteúdo aqui disponibilizado está sujeito a uma Licença de Uso Restrito. É expressamente proibido copiar, modificar, redistribuir, incorporar ou utilizar qualquer parte deste projeto, total ou parcialmente, sem autorização formal e por escrito da autora.
+
+Este projeto não é de código aberto e está disponível apenas para visualização legítima, com fins informativos ou educacionais, desde que não haja má-fé ou uso indevido.
+
+Para dúvidas, solicitações de uso ou autorização, entre em contato diretamente com a autora.  
+Para mais informações, consulte o arquivo [LICENSE](./LICENSE).
+
+
+---
+
+
 Project Overview
 
   TutorIA is a cross-platform application that uses artificial intelligence to serve as a virtual tutor for Portuguese language learning, focusing on students in primary and secondary education. The project aims to address major learning difficulties by promoting more effective and personalized teaching.
@@ -53,21 +68,6 @@ Offerings
 Conclusion
 
   TutorIA seeks to transform the teaching and learning of the Portuguese language through the application of advanced technology in educational contexts. With a student-centered approach and scalable solutions, the app aims to improve academic performance, foster student motivation, and modernize the educational experience across various learning environments.
-
-
----
-
-
-Aviso Legal — Direitos Reservados
-
-Este repositório contém o projeto "tutorIA", de autoria de Amanda Roos da Costa, protegido por direitos autorais e legislação de propriedade intelectual.
-
-O conteúdo aqui disponibilizado está sujeito a uma Licença de Uso Restrito. É expressamente proibido copiar, modificar, redistribuir, incorporar ou utilizar qualquer parte deste projeto, total ou parcialmente, sem autorização formal e por escrito da autora.
-
-Este projeto não é de código aberto e está disponível apenas para visualização legítima, com fins informativos ou educacionais, desde que não haja má-fé ou uso indevido.
-
-Para dúvidas, solicitações de uso ou autorização, entre em contato diretamente com a autora.  
-Para mais informações, consulte o arquivo [LICENSE](./LICENSE).
 
 
 ---
