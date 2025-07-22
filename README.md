@@ -9,10 +9,10 @@ Propostas
   O TutorIA está disponível em duas versões, destinadas ao uso institucional e pessoal:
 
 1. Versão Institucional
-  Objetivo: Integrar o aplicativo ao sistema de escolas públicas por meio de parcerias governamentais.
+Objetivo: Integrar o aplicativo ao sistema de escolas públicas por meio de parcerias governamentais.
 
 3. Versão Pessoal
-  Modelo Freemium: Disponível para download gratuito, com acesso a quatro painéis básicos de estudo. Recursos avançados são liberados mediante assinatura mensal.
+Modelo Freemium: Disponível para download gratuito, com acesso a quatro painéis básicos de estudo. Recursos avançados são liberados mediante assinatura mensal.
   Principais Funcionalidades:
   - Avaliação das necessidades e acompanhamento de desempenho individual;
   - Planejamento personalizado de aulas e conteúdos;
