@@ -9,10 +9,10 @@ Propostas
   O TutorIA está disponível em duas versões, destinadas ao uso institucional e pessoal:
 
 1. Versão Institucional
-Objetivo: Integrar o aplicativo ao sistema de escolas públicas por meio de parcerias governamentais.
+- Objetivo: Integrar o aplicativo ao sistema de escolas públicas por meio de parcerias governamentais.
 
 3. Versão Pessoal
-Modelo Freemium: Disponível para download gratuito, com acesso a quatro painéis básicos de estudo. Recursos avançados são liberados mediante assinatura mensal.
+- Modelo Freemium: Disponível para download gratuito, com acesso a quatro painéis básicos de estudo. Recursos avançados são liberados mediante assinatura mensal.
   Principais Funcionalidades:
   - Avaliação das necessidades e acompanhamento de desempenho individual;
   - Planejamento personalizado de aulas e conteúdos;
@@ -39,15 +39,15 @@ Offerings
   TutorIA is available in two versions, designed for both institutional and personal use:
 
 1. Institutional Version
-  Objective: Integrate the application into public school systems through government partnerships.
+- Objective: Integrate the application into public school systems through government partnerships.
 
-2. Personal Version
-  Freemium Model: Available for free download with access to four basic study panels. Advanced features are unlocked through a monthly subscription.
-Key Features:
-- Assessment of individual needs and performance tracking;
-- Personalized lesson planning and content delivery;
-- Interactive lessons combining AI and registered educators;
-- Specialized modules for ENEM and public service exam preparation.
+3. Personal Version
+- Freemium Model: Available for free download with access to four basic study panels. Advanced features are unlocked through a monthly subscription.
+  Key Features:
+  - Assessment of individual needs and performance tracking;
+  - Personalized lesson planning and content delivery;
+  - Interactive lessons combining AI and registered educators;
+  - Specialized modules for ENEM and public service exam preparation.
 
 
 Conclusion
