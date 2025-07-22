@@ -11,7 +11,7 @@ Propostas
 1. Versão Institucional
   Objetivo: Integrar o aplicativo ao sistema de escolas públicas por meio de parcerias governamentais.
 
-2. Versão Pessoal
+3. Versão Pessoal
   Modelo Freemium: Disponível para download gratuito, com acesso a quatro painéis básicos de estudo. Recursos avançados são liberados mediante assinatura mensal.
   Principais Funcionalidades:
   - Avaliação das necessidades e acompanhamento de desempenho individual;
