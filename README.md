@@ -24,4 +24,4 @@ All content provided herein is subject to a Restricted Use License. It is strict
 This project is not open source and is available solely for legitimate viewing purposes, with informational or educational intent, provided there is no bad faith or misuse.
 
 For questions, usage requests, or licensing inquiries, please contact the author directly.  
-For more information, refer to the LICENSE file.
+For more information, refer to the [LICENSE](./LICENSE) file.
