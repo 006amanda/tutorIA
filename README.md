@@ -3,6 +3,7 @@ Visão Geral do Projeto
   O tutorIA é um aplicativo multiplataforma que utiliza inteligência artificial para atuar como tutora virtual da Língua Portuguesa, com foco em estudantes do Ensino Fundamental e Médio. O projeto tem como objetivo abordar as principais dificuldades de aprendizagem, promovendo um ensino mais eficaz e personalizado. 
   A partir de uma avaliação inicial do aluno, o aplicativo identifica dificuldades específicas e gera um plano de estudo personalizado. As aulas são interativas, com explicações guiadas por inteligência artificial e suporte de professores cadastrados. O desempenho é monitorado continuamente, permitindo ajustes no conteúdo e na abordagem conforme a evolução do aluno. Recursos avançados, como módulos para o ENEM e concursos, estão disponíveis por assinatura.
 
+
 Propostas
 
   O TutorIA está disponível em duas versões, destinadas ao uso institucional e pessoal:
@@ -18,11 +19,44 @@ Propostas
   - Aulas interativas que combinam inteligência artificial e professores cadastrados;
   - Módulos especializados para preparação ao ENEM e concursos públicos.
 
+
 Conclusão
 
 O tutorIA busca transformar o ensino e a aprendizagem da Língua Portuguesa por meio da aplicação de tecnologia de ponta em contextos educacionais. Com abordagem centrada no aluno e soluções escaláveis, o aplicativo visa melhorar o desempenho acadêmico, estimular a motivação e modernizar a experiência educacional em diferentes ambientes escolares.
 
+
 ---
+
+
+Project Overview
+
+  TutorIA is a cross-platform application that uses artificial intelligence to serve as a virtual tutor for Portuguese language learning, focusing on students in primary and secondary education. The project aims to address major learning difficulties by promoting more effective and personalized teaching.
+  Following an initial student assessment, the application identifies specific difficulties and generates a customized study plan. Lessons are interactive, featuring explanations guided by artificial intelligence and supported by registered teachers. Student performance is continuously monitored, allowing dynamic adjustments to content and methodology. Advanced features, such as modules for ENEM and public exam preparation, are available through a subscription plan.
+
+
+Offerings
+
+  TutorIA is available in two versions, designed for both institutional and personal use:
+
+1. Institutional Version
+  Objective: Integrate the application into public school systems through government partnerships.
+
+2. Personal Version
+  Freemium Model: Available for free download with access to four basic study panels. Advanced features are unlocked through a monthly subscription.
+Key Features:
+- Assessment of individual needs and performance tracking;
+- Personalized lesson planning and content delivery;
+- Interactive lessons combining AI and registered educators;
+- Specialized modules for ENEM and public service exam preparation.
+
+
+Conclusion
+
+  TutorIA seeks to transform the teaching and learning of the Portuguese language through the application of advanced technology in educational contexts. With a student-centered approach and scalable solutions, the app aims to improve academic performance, foster student motivation, and modernize the educational experience across various learning environments.
+
+
+---
+
 
 Aviso Legal — Direitos Reservados
 
