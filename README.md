@@ -1,4 +1,28 @@
+Visão Geral do Projeto
 
+  O tutorIA é um aplicativo multiplataforma que utiliza inteligência artificial para atuar como tutora virtual da Língua Portuguesa, com foco em estudantes do Ensino Fundamental e Médio. O projeto tem como objetivo abordar as principais dificuldades de aprendizagem, promovendo um ensino mais eficaz e personalizado. 
+  A partir de uma avaliação inicial do aluno, o aplicativo identifica dificuldades específicas e gera um plano de estudo personalizado. As aulas são interativas, com explicações guiadas por inteligência artificial e suporte de professores cadastrados. O desempenho é monitorado continuamente, permitindo ajustes no conteúdo e na abordagem conforme a evolução do aluno. Recursos avançados, como módulos para o ENEM e concursos, estão disponíveis por assinatura.
+
+Propostas
+
+  O TutorIA está disponível em duas versões, destinadas ao uso institucional e pessoal:
+
+1. Versão Institucional
+  Objetivo: Integrar o aplicativo ao sistema de escolas públicas por meio de parcerias governamentais.
+
+2. Versão Pessoal
+  Modelo Freemium: Disponível para download gratuito, com acesso a quatro painéis básicos de estudo. Recursos avançados são liberados mediante assinatura mensal.
+  Principais Funcionalidades:
+  - Avaliação das necessidades e acompanhamento de desempenho individual;
+  - Planejamento personalizado de aulas e conteúdos;
+  - Aulas interativas que combinam inteligência artificial e professores cadastrados;
+  - Módulos especializados para preparação ao ENEM e concursos públicos.
+
+Conclusão
+
+O tutorIA busca transformar o ensino e a aprendizagem da Língua Portuguesa por meio da aplicação de tecnologia de ponta em contextos educacionais. Com abordagem centrada no aluno e soluções escaláveis, o aplicativo visa melhorar o desempenho acadêmico, estimular a motivação e modernizar a experiência educacional em diferentes ambientes escolares.
+
+---
 
 Aviso Legal — Direitos Reservados
 
