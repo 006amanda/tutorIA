@@ -1,3 +1,9 @@
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Versão](https://img.shields.io/badge/versão-1.0.0-blue)
+![Licença](https://img.shields.io/badge/licença-restrita-red)
+![Linguagem](https://img.shields.io/badge/language-Python-blue)
+![Última Atualização](https://img.shields.io/github/last-commit/006amanda/tutorIA)
+
 Visão Geral do Projeto
 
   O tutorIA é um aplicativo multiplataforma que utiliza inteligência artificial para atuar como tutora virtual da Língua Portuguesa, com foco em estudantes do Ensino Fundamental e Médio. O projeto tem como objetivo abordar as principais dificuldades de aprendizagem, promovendo um ensino mais eficaz e personalizado. 
