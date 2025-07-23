@@ -4,7 +4,7 @@
 ![Linguagem](https://img.shields.io/badge/language-Python-blue)
 [![Security](https://img.shields.io/badge/security-Policy-important?style=flat-square&logo=security)](./SECURITY.md)
 [![Support](https://img.shields.io/badge/support-Contact-blue)](./SUPPORT.md)
-[![Última Atualização](https://img.shields.io/github/last-commit/amandarcos/tutoria)](https://github.com/amandarcos/tutoria/commits/main)
+[![Última Atualização](https://img.shields.io/github/last-commit/006amanda/tutorIA)](https://github.com/006amanda/tutorIA/commits/main)
 
 Visão Geral do Projeto
 
