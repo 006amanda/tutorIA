@@ -1,6 +1,6 @@
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Versão](https://img.shields.io/badge/versão-1.0.0-blue)
-![Licença](https://img.shields.io/badge/licença-restrita-red)
+[![Licença](https://img.shields.io/badge/licença-restrita-red)](./LICENSE)
 ![Linguagem](https://img.shields.io/badge/language-Python-blue)
 ![Última Atualização](https://img.shields.io/github/last-commit/006amanda/tutorIA)
 
