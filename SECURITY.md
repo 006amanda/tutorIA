@@ -1,5 +1,5 @@
 Segurança
-
+ 
 Se você encontrar qualquer vulnerabilidade de segurança no projeto, por favor, reporte imediatamente para a autora através de contato formal.  
 
 Evite divulgar publicamente para proteger os usuários e a integridade do projeto.
