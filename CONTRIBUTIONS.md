@@ -1,6 +1,7 @@
 Contribuições para o tutorIA
 
 Este repositório não está aberto a contribuições externas no momento. 
+
 Caso deseje sugerir melhorias ou colaborações futuras, entre em contato com a autora formalmente.
 
 Agradeço a compreensão!
