@@ -10,7 +10,7 @@ Favor utilizar canais formais para garantir atendimento adequado.
 
 Support
 
-For questions, issues, or requests related to TutorIA, please contact the author directly.  
+For questions, issues, or requests related to tutorIA, please contact the author directly.  
 
 Please use formal channels to ensure proper support.
 
