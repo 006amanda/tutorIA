@@ -2,7 +2,7 @@
 [![Versão](https://img.shields.io/badge/versão-1.0.0-blue)](https://github.com/amandarcos/tutoria/releases)
 [![Licença](https://img.shields.io/badge/licença-restrita-red)](./LICENSE)
 ![Linguagem](https://img.shields.io/badge/language-Python-blue)
-[![Security Policy](https://img.shields.io/badge/security-policy-Important-red)](./SECURITY.md)
+[![Security](https://img.shields.io/badge/security-Policy-important?style=flat-square&logo=security)](./SECURITY.md)
 [![Support](https://img.shields.io/badge/support-Contact-blue)](./SUPPORT.md)
 [![Última Atualização](https://img.shields.io/github/last-commit/amandarcos/tutoria)](https://github.com/amandarcos/tutoria/commits/main)
 
