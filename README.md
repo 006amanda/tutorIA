@@ -2,8 +2,8 @@
 [![Versão](https://img.shields.io/badge/versão-1.0.0-blue)](https://github.com/amandarcos/tutoria/releases)
 [![Licença](https://img.shields.io/badge/licença-restrita-red)](./LICENSE)
 ![Linguagem](https://img.shields.io/badge/language-Python-blue)
-[![Política de Segurança](https://img.shields.io/badge/security-policy-Important-red)](./SECURITY.md)
-[![Suporte](https://img.shields.io/badge/support-Contact-blue)](./SUPPORT.md)
+[![Security Policy](https://img.shields.io/badge/security-policy-Important-red)](./SECURITY.md)
+[![Support](https://img.shields.io/badge/support-Contact-blue)](./SUPPORT.md)
 [![Última Atualização](https://img.shields.io/github/last-commit/amandarcos/tutoria)](https://github.com/amandarcos/tutoria/commits/main)
 
 Visão Geral do Projeto
