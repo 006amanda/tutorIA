@@ -1,4 +1,4 @@
-Possíveis perguntas
+Possíveis perguntas  
 
 P: Posso utilizar, modificar ou redistribuir o tutorIA livremente?  
 R: Não. O projeto está protegido por uma Licença de Uso Restrito. Qualquer uso, modificação, redistribuição ou criação de obras derivadas somente é permitido mediante autorização formal e expressa da autora.
