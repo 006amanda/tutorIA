@@ -3,7 +3,7 @@
 [![Licença](https://img.shields.io/badge/licença-restrita-red)](./LICENSE)
 ![Linguagem](https://img.shields.io/badge/language-Python-blue)
 [![Security](https://img.shields.io/badge/security-Policy-important?style=flat-square&logo=security)](./SECURITY.md)
-[![Pull Request Template](https://img.shields.io/badge/pull%20request-template-purple?style=flat-square)](./.github/PULL_REQUEST_TEMPLATE.md)
+[![Pull Request Template](https://img.shields.io/badge/pull%20request-template-purple?style=flat-square)](./PULL_REQUEST_TEMPLATE.md)
 [![Support](https://img.shields.io/badge/support-Contact-blue)](./SUPPORT.md)
 [![FAQ](https://img.shields.io/badge/FAQ-available-yellow?style=flat-square)](./FAQ.md)
 [![Última Atualização](https://img.shields.io/github/last-commit/006amanda/tutorIA)](https://github.com/006amanda/tutorIA/commits/main)
