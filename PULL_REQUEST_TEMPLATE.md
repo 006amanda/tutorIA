@@ -25,7 +25,7 @@ Checklist
 - [ ] A submissão está em conformidade com as políticas e permissões descritas no arquivo LICENSE.
 
 
-Informações Adicionais / Additional Information
+Informações Adicionais
 
 Inclua qualquer informação extra relevante para a análise desta proposta, como screenshots, exemplos de uso ou referências.
 
