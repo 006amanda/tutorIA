@@ -16,7 +16,7 @@ Visão Geral do Projeto
 
 Propostas
 
-  O TutorIA está disponível em duas versões, destinadas ao uso institucional e pessoal:
+  O tutorIA está disponível em duas versões, destinadas ao uso institucional e pessoal:
 
 1. Versão Institucional
 - Objetivo: Integrar o aplicativo ao sistema de escolas públicas por meio de parcerias governamentais.
