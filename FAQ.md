@@ -19,7 +19,7 @@ R: Recursos avançados incluem módulos específicos para preparação para o EN
 ---
 
 
-Possible Questions
+Possible questions
 
 Q: Can I use, modify, or redistribute tutorIA freely?
 A: No. The project is protected by a Restricted Use License. Any use, modification, redistribution, or creation of derivative works is only permitted with the author's formal and express authorization.
